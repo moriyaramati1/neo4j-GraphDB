@@ -24,7 +24,7 @@ from DB_Load import GraphDB
 
 
 # web site start app\logoneo.png
-image = Image.open('./app/open_screen.png')
+image = Image.open('./app/logoneo.png')
 st.image(image,use_column_width=True)
 
 
