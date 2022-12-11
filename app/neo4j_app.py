@@ -12,19 +12,19 @@ from PIL import Image
 import sys
 import os
 sys.path.insert(1,os.getcwd())
-from db import GraphDB
+from DB_Load import GraphDB
 
 
-my_graph  = GraphDB()
-my_graph.build_nodes()
-my_graph.bulid_relationships()
-clinic,not_clinic = my_graph.create_similarity()
+# my_graph  = GraphDB()
+# my_graph.build_nodes()
+# my_graph.bulid_relationships()
+# clinic,not_clinic = my_graph.create_similarity()
 
 
 
 
 # web site start app\logoneo.png
-image = Image.open('./app/logoneo.png')
+image = Image.open('./app/open_screen.png')
 st.image(image,use_column_width=True)
 
 
