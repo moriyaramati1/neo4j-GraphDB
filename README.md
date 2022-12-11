@@ -32,7 +32,7 @@ Category - relationship that connects between Person and the malignancy of cance
 
 ### Example image of the graph:
 <p align="left">
-  <img src=graph_image.png width="350" title="hover text"  width="800" height="400"
+  <img src=images_folder\graph_image.png width="350" title="hover text"  width="800" height="400"
 </p>
 
 
@@ -52,18 +52,18 @@ There are two options of similarities:
 To calculate the similarity I used a graph science algorithm that uses Jaccard Similarity:
  
 <p align="left">
-  <img src=similarity.png width="350" title="hover text"  width="1000" height="150"
+  <img src=images_folder\similarity.png width="350" title="hover text"  width="1000" height="150"
 </p>
  
  ### Example image of the application:
   
   <p align="left">
-    <img src=open_screen.png width="350" title="hover text"  width="1000" height="300"
+    <img src=images_folder\open_screen.png width="350" title="hover text"  width="1000" height="300"
   </p>
   
     
   <p align="left">
-    <img src=result.png width="350" title="hover text"  width="800" height="400"
+    <img src=images_folder\result.png width="350" title="hover text"  width="800" height="400"
   </p>
 
   
