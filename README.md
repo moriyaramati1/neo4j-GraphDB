@@ -14,7 +14,7 @@ This division and similarity will help us move forward with personalized medicin
   * Tnm_Subtype a file that contains the id of patients and Tnm and subtpye that match for the cancer status.
 
 The structure of the graph:
-## nodes Type:
+## Nodes Type:
 - Person
 - Gene
 - Stage
